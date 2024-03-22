@@ -1,8 +1,5 @@
-
-
 <h1 align="center">Hi 👋, I'm Kristijan Boshev</h1>
 <h3 align="center">Welcome to my ML journey! I’m just a curious human who loves to dive into the fascinating world of Machine Learning. 🤖✨</h3>
-
 
 - 🔭 I’m currently working on **FINKI Class Scheduler**
 
@@ -12,7 +9,9 @@
 
 - 📫 How to reach me **boshevk@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/boshevk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boshevk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
