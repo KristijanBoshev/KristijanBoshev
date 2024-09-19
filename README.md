@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kristijan Boshev</h1>
 <h3 align="center">Welcome to my ML journey! I’m just a curious human who loves to dive into the fascinating world of Machine Learning. 🤖✨</h3>
 
-- 🔭 I’m currently working on **FINKI Class Scheduler**
+- 🔭 I’m currently working on **Private projects**
 
-- 🌱 I’m currently learning **Pytorch Lightning**
-
-- 💬 Ask me about **AI, ML, DS**
+- 💬 Ask me about **AI, ML, GenAI**
 
 - 📫 How to reach me **boshevk@gmail.com**
 
