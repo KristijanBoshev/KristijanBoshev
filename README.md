@@ -1,23 +1,31 @@
-<h1 align="center">Hi 👋, I'm Kristijan Boshev</h1>
-<h3 align="center">Welcome to my ML journey! I’m just a curious human who loves to dive into the fascinating world of Machine Learning. 🤖✨</h3>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Kristijan Boshev! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 🔭 I’m currently working on **Private projects**
-
-- 💬 Ask me about **AI, ML, GenAI**
-
-- 📫 How to reach me **boshevk@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kristijan-boshev-3444a0255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kristijan-boshev" height="30" width="40" /></a>
-<a href="https://instagram.com/boshevk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boshevk" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kristijanboshev&show_icons=true&locale=en&layout=compact" alt="kristijanboshev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kristijanboshev&show_icons=true&locale=en" alt="kristijanboshev" /></p>
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-998-blue)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kristijanboshev&" alt="kristijanboshev" /></p>
+
+```python
+kristijan = {
+    "code": ["Python", "Javascript", "Java"],
+    "ask_me_about": ["ai", "gen_ai", "machine learning", "cloud computing", "agents", "ai tech trends"],
+    "technologies": {
+        "ai": {
+            "python": ["Langchain", "LangGraph", "CrewAI", "Autogen", "PyTorch", "etc"],
+        },
+        "back_end": {
+            "python": ["FastAPI", "Django"],
+        },
+        "dev_ops": ["Docker🐳", "CI/CD", "GitHub Actions"],
+        "cloud_services": {
+            "aws": ["AWS Amplify", "Cognito", "EC2", "ECS", "ECR", "Sagemaker", "API Gateway", "S3", "Lambda", "CloudWatch", "CloudFlare"],
+        },
+        "databases": ["DynamoDB", "MongoDB", "Qdrant", "Supabase", "ChromaDB", "Neo4j"],
+        "misc": ["REST APIs", "WebSockets"],
+        "generative_ai": ["GPT", "Vectorization", "RAG", "fine-tuning models", "etc"],
+    },
+    "focus": "Generative AI develop and research with primary focus on RAG systems, foundation models and new promising techniques"
+}
+```
+
+![trophy](https://github-profile-trophy.vercel.app/?username=KristijanBoshev&rank=S,AAA,AA,A,B)
+
