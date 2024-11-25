@@ -2,11 +2,11 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-998-blue)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kristijanboshev&" alt="kristijanboshev" /></p>
+
 
 ```python
 kristijan = {
-    "code": ["Python", "Javascript", "Java"],
+    "code": ["Python", "TypeScript"],
     "ask_me_about": ["ai", "gen_ai", "machine learning", "cloud computing", "agents", "ai tech trends"],
     "technologies": {
         "ai": {
@@ -17,7 +17,7 @@ kristijan = {
         },
         "dev_ops": ["Docker🐳", "CI/CD", "GitHub Actions"],
         "cloud_services": {
-            "aws": ["AWS Amplify", "Cognito", "EC2", "ECS", "ECR", "Sagemaker", "API Gateway", "S3", "Lambda", "CloudWatch", "CloudFlare"],
+            "aws": ["Cognito", "EC2", "Fargate", "ECS", "ECR", "Sagemaker", "API Gateway", "S3", "Lambda", "CloudWatch", "CloudFront"],
         },
         "databases": ["DynamoDB", "MongoDB", "Qdrant", "Supabase", "ChromaDB", "Neo4j"],
         "misc": ["REST APIs", "WebSockets"],
