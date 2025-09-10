@@ -28,5 +28,5 @@ kristijan = {
 }
 ```
 
-![trophy](https://github-profile-trophy.vercel.app/?username=KristijanBoshev)
+![trophies](https://github-profile-trophy.vercel.app/?username=KristijanBoshev&rank=-B,-C,-?&theme=gruvbox&column=-1&margin-w=10&margin-h=10)
 
