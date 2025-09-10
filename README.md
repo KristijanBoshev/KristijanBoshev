@@ -16,7 +16,7 @@ kristijan = {
             "python": ["FastAPI", "Django"],
             "typescript": ["NodeJS, NestJS"],
         },
-        "dev_ops": ["Docker🐳", "CI/CD", "GitHub Actions", k8s, ArgoCD, Terraform],
+        "dev_ops": ["Docker🐳", "CI/CD", "GitHub Actions", "k8s", "ArgoCD", "Terraform"],
         "cloud_services": {
             "aws": ["IAM", "Cloudformation", "KMS", "Cognito", "EC2", "Fargate", "ECS", "ECR", "Sagemaker", "API Gateway", "S3", "Lambda", "CloudWatch", "CloudFront"],
         },
