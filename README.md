@@ -14,10 +14,11 @@ kristijan = {
         },
         "back_end": {
             "python": ["FastAPI", "Django"],
+            "typescript": ["NodeJS, NestJS"],
         },
-        "dev_ops": ["Docker🐳", "CI/CD", "GitHub Actions"],
+        "dev_ops": ["Docker🐳", "CI/CD", "GitHub Actions", k8s, ArgoCD, Terraform],
         "cloud_services": {
-            "aws": ["Cognito", "EC2", "Fargate", "ECS", "ECR", "Sagemaker", "API Gateway", "S3", "Lambda", "CloudWatch", "CloudFront"],
+            "aws": ["IAM", "Cloudformation", "KMS", "Cognito", "EC2", "Fargate", "ECS", "ECR", "Sagemaker", "API Gateway", "S3", "Lambda", "CloudWatch", "CloudFront"],
         },
         "databases": ["DynamoDB", "MongoDB", "Qdrant", "Supabase", "ChromaDB", "Neo4j"],
         "misc": ["REST APIs", "WebSockets"],
