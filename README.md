@@ -1,7 +1,6 @@
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="230"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> <img src="https://media2.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif" width="230">
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Kristijan Boshev! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-
 
 ```python
 kristijan = {
